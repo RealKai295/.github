@@ -9,5 +9,7 @@
 <img src="https://ghstats.dev/api/card?username=RealKai295&hide_title=true" alt="GitHub Stats Card" />
 
 Contributed to theo offsets 5k members
+
 Contributed to https://imtheo.lol recoded the entire website
+
 Contributed to https://github.com/meowpurrpur/liveserver 
